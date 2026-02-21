@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmlrYmpseWphd3Y4MG1iMGhzbmMzNmMwcWVnZTF2bzIyeWs1YmhrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUySTQZfdpSkIIg88M/giphy.gif" align="center" height="" width="600" />
-</div>  
-  
-
 ### <div align="center">I'm Aksh, a full-time full-stack ai developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
